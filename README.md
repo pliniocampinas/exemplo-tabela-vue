@@ -3,7 +3,7 @@
 # Exemplos de criação de uma tabela utilizando diferentes estratégias.
 
 # JavaScript puro, criando string de HTML
-# JavsScript puro, usando createElement e AppendChild
+# JavaScript puro, usando createElement e AppendChild
 # Template Vue, usando v-for
 # Componente Vue
 
